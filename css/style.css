@@ -1,6 +1,6 @@
-/* Add a black background color to the top navigation */
+/* background color for top navigation bar strip*/
 .topnav {
-  background-color: #333;
+  background-color: rgba(58, 29, 75, 0.9);
   overflow: hidden;
 }
 
@@ -14,7 +14,7 @@
   font-size: 17px;
 }
 
-/* ukipitilia juu */
+/* hovering */
 .topnav a:hover {
   background-color: #ff57f9;
   color: black;
@@ -85,7 +85,7 @@ p {
   letter-spacing: 0.2px;
 }
 
-.bg-grey {
+.backgroundcolourgrey {
   background: #2b2b2b !important;
 }
 
