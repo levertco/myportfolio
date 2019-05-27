@@ -5,7 +5,6 @@
 ## Description
 {My portfolio is a compilation of materials that exemplifies my beliefs, skills, qualifications, education, training and experiences. It provides a brief insight into my personality and work ethic.
 
- }
 ## Known Bugs
 None curently detected.
 
